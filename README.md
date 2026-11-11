@@ -1,5 +1,9 @@
 # Awesome IPTV
 
+## EL JEFFE edition
+
+See [ELJEFFE.md](ELJEFFE.md) for the expanded resource collection and browser integration. Upstream content is preserved below.
+
 A curated list of resources related to IPTV.
 
 ## Contents
